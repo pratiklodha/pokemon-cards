@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pokemon-cards/static/css/main.c17da288.chunk.css",
+    "main.js": "/pokemon-cards/static/js/main.7abce622.chunk.js",
+    "main.js.map": "/pokemon-cards/static/js/main.7abce622.chunk.js.map",
+    "runtime~main.js": "/pokemon-cards/static/js/runtime~main.19a1eb3f.js",
+    "runtime~main.js.map": "/pokemon-cards/static/js/runtime~main.19a1eb3f.js.map",
+    "static/js/2.034f072a.chunk.js": "/pokemon-cards/static/js/2.034f072a.chunk.js",
+    "static/js/2.034f072a.chunk.js.map": "/pokemon-cards/static/js/2.034f072a.chunk.js.map",
+    "index.html": "/pokemon-cards/index.html",
+    "precache-manifest.aa7ca96a2dc4a1fe4f7baf3da4d6f9be.js": "/pokemon-cards/precache-manifest.aa7ca96a2dc4a1fe4f7baf3da4d6f9be.js",
+    "service-worker.js": "/pokemon-cards/service-worker.js",
+    "static/css/main.c17da288.chunk.css.map": "/pokemon-cards/static/css/main.c17da288.chunk.css.map"
+  }
+}
